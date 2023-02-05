@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "673240970",
+    "firebase_url": "https://tinder-c70a2-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "tinder-c70a2",
+    "storage_bucket": "tinder-c70a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673240970:android:718991842f5ed8494d1a73",
+        "android_client_info": {
+          "package_name": "com.example.practice13_tinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673240970-0sqqu14nscc20h9hcgln2kg59lspknqq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4n9gshBq0QGSrRmlJc7EwBNdIIP_C_iE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673240970-0sqqu14nscc20h9hcgln2kg59lspknqq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
