@@ -1,6 +1,8 @@
 <resources>
+
     <string name="app_name">Practice13_tinder</string>
     <string name="facebook_app_id">855937258847607</string>
     <string name="fb_login_protocol_scheme">fb1234</string>
     <string name="facebook_client_token">f6cd895028bb4537605905222d4cd5f1</string>
+
 </resources>
